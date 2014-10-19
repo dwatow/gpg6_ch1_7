@@ -1,0 +1,8 @@
+*.suo
+*.ncb
+*.user
+MainProj/MainProj/Release/*
+MainProj/MainProj/Debug/*
+
+MainProj/UnitTest/Release/*
+MainProj/UnitTest/Debug/*
