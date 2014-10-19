@@ -161,10 +161,6 @@
 			Filter="cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx"
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
-			<File
-				RelativePath=".\unitTestMain.cpp"
-				>
-			</File>
 		</Filter>
 		<Filter
 			Name="Header Files"
@@ -173,14 +169,6 @@
 			>
 			<File
 				RelativePath=".\CppunitLib.h"
-				>
-			</File>
-			<File
-				RelativePath=".\FixtureClass.h"
-				>
-			</File>
-			<File
-				RelativePath=".\math.h"
 				>
 			</File>
 		</Filter>
