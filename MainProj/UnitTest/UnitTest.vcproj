@@ -171,6 +171,10 @@
 				RelativePath=".\CppunitLib.h"
 				>
 			</File>
+			<File
+				RelativePath=".\FixtureClass.h"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Resource Files"
