@@ -6,3 +6,6 @@ MainProj/MainProj/Debug/*
 
 MainProj/UnitTest/Release/*
 MainProj/UnitTest/Debug/*
+
+MainProj/Release/*
+MainProj/Debug/*

@@ -2,6 +2,7 @@
 #define FIXTURE_CLASS_H
 
 #include "CppunitLib.h"
+#include "math.h"
 
 /*
 在Cppunit中，我們要先建立治具類別。這可以從CppUnit::TestFixture衍生取得。
